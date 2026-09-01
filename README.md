@@ -64,6 +64,7 @@ I'm a Computer Science & AI student specializing in backend architecture, artifi
 <br/>
 
 <!-- Centered Snake Animation -->
+### 🐍 Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yoursanonymous/yoursanonymous/raw/output/github-contribution-grid-snake-dark.svg">
