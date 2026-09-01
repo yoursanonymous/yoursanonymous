@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Vinayak%20Sharma&fontSize=50&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20%26%20AI%20Developer&descAlignY=55&descSize=20" alt="Animated Header" />
+</p>
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Vinayak Sharma
 
 <!-- Animated Typing Text -->
