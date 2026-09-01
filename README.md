@@ -57,7 +57,7 @@ I'm a Computer Science & AI student specializing in backend architecture, artifi
 
 ### 📊 Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoursanonymous&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b26" alt="GitHub Stats" width="48%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoursanonymous&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" width="48%" />
 </div>
 
