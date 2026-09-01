@@ -66,8 +66,8 @@ I'm a Computer Science & AI student specializing in backend architecture, artifi
 <!-- Centered Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yoursanonymous/yoursanonymous/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yoursanonymous/yoursanonymous/output/github-contribution-grid-snake.svg">
-   <img src="https://github-readme-stats.vercel.app/api?username=yoursanonymous&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=1a1b26" alt="GitHub Stats" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yoursanonymous/yoursanonymous/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yoursanonymous/yoursanonymous/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/yoursanonymous/yoursanonymous/raw/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
